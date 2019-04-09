@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Mario Ortas Lebrancón",
+    "label": "FullStack Engineer",
+    "picture": "https://media.licdn.com/dms/image/C5603AQF6rzSXWU6Jsg/profile-displayphoto-shrink_200_200/0?e=1560384000&v=beta&t=HOsD0-zTX2wdbzBwRPljzRYMvjywrcdFMmZ518s8lcg",
+    "email": "mario.ortas@outlook.com",
+    "phone": "(+34) 622 292 340",
+    "website": "",
+    "summary": "I'm a fullstack web developer, currently focused on frontend technologies, with a decent background on backend. Currently working in Angular7 and NodeJS environment. ",
+    "location": {
+      "address": "C/ Nicolasa Gómez",
+      "postalCode": "28022",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Madrid"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIN",
+        "username": "Mario Ortas Lebrancón",
+        "url": "https://www.linkedin.com/in/mario-ortas/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "FeverUP",
+      "position": "Front End Engineer",
+      "website": "https://feverup.com",
+      "startDate": "2017-10-23",
+      "summary": "Main website development and media network maintenance.",
+      "highlights": [
+        "Website developed with Angular 7, using SSR, Lunr, GraphQL",
+        "Media network created in wordpress, with plugin and themes development",
+        "Developing a intermediate layer with Apollo"
+      ]
+    },
+    {
+      "company": "Wanabet (R. Franco)",
+      "position": "Front End Engineer",
+      "website": "https://wanabet.es",
+      "startDate": "2015-12-01",
+      "endDate": "2017-10-20",
+      "summary": "Main website development and CMS development.",
+      "highlights": [
+        "Web developed integrating pieces from various providers, with AngularJS as merger",
+        "Wordpress as 'backend', accessing by API to resources"
+      ]
+    },
+    {
+      "company": "Avansis (TLS)",
+      "position": "Senior Developer",
+      "website": "https://wanabet.es",
+      "startDate": "2014-12-01",
+      "endDate": "2015-12-01",
+      "summary": "Learning management system development.",
+      "highlights": [
+        "Developing learning management with .NET (4.5.1).",
+        "Standarizing development, from many ways (one for each .NET framework) to an API approach"
+      ]
+    },
+    {
+      "company": "Intelygenz",
+      "position": "Developer",
+      "website": "https://intelygenz.com",
+      "startDate": "2009-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Web developer for various clients.",
+      "highlights": [
+        "Developing mainly with .NET and jQuery in client. Some developments done in Java",
+        "Job trip to Venezuela for installing a development."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "IES Quevedo",
+      "area": "Information Technology",
+      "studyType": "CFGS DAI",
+      "startDate": "2006-09-01",
+      "endDate": "2008-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML / Jade",
+        "CSS / SASS / SCSS",
+        "Javascript / Typescript",
+        "AngularJS / Angular 2+",
+        "NodeJS / Express"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Rock",
+        "Punk"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Strategy",
+        "Sport"
+      ]
+    }
+  ]
+}
