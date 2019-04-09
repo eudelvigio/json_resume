@@ -92,6 +92,15 @@
         "AngularJS / Angular 2+",
         "NodeJS / Express"
       ]
+    },
+    {
+      "name": "Systems Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Jenkins",
+        "NGINX / Apache",
+        "Windows / Linux"
+      ]
     }
   ],
   "languages": [
