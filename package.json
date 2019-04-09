@@ -1,0 +1,22 @@
+{
+  "name": "json_resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "resume export index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eudelvigio/json_resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eudelvigio/json_resume/issues"
+  },
+  "homepage": "https://github.com/eudelvigio/json_resume#readme",
+  "devDependencies": {
+    "resume-cli": "^1.1.2"
+  }
+}
